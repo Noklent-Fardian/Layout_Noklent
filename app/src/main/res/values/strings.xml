@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layout_Noklent</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="next">next</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="back">back</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+</resources>
